@@ -2,7 +2,7 @@
 This is a task automation script for sorting emails you recieve and categorizing them into categories you choose.  
 
 
-#**READ THIS.  VERY IMPORTANT!**
+# **READ THIS.  VERY IMPORTANT!**
 
 This is still a WIP so if you find a problem please report it to me.  
 
